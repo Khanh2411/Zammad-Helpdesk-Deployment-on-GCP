@@ -34,6 +34,12 @@ Cài đặt Elasticsearch
 Cấu hình trong file /etc/elasticsearch/elasticsearch.yml  
 ![](image/edit-conf-elastic.png)  
 
+Kiểm tra ngôn ngữ.  
+![](image/setupLANG.png)  
+
+Cập nhật và Cài đặt Zammad.  
+![](image/install-zammad.png)  
+
 # Email Channel
 # Live Chat Channel
 # Tích hợp Website
