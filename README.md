@@ -40,6 +40,9 @@ Kiểm tra ngôn ngữ.
 Cập nhật và Cài đặt Zammad.  
 ![](image/install-zammad.png)  
 
+Thiết lập rule firewall.  
+![](image/setup-firewall-rule.png)  
+
 # Email Channel
 # Live Chat Channel
 # Tích hợp Website
