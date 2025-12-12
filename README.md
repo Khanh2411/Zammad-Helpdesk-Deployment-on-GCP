@@ -1,4 +1,5 @@
 # Overview
+![](image/zammad_logo.png)  
 Dự án này trình bày việc triển khai và cấu hình Zammad, một hệ thống hỗ trợ/quản lý yêu cầu mã nguồn mở, trên Google Cloud Platform (GCP) với môi trường sẵn sàng cho sản xuất.  
 Mục tiêu là xây dựng một hệ thống hỗ trợ đầy đủ chức năng bao gồm quản lý yêu cầu, tích hợp email, tiện ích trò chuyện trực tuyến, quy tắc tự động hóa và bảo mật SSL.  
 
