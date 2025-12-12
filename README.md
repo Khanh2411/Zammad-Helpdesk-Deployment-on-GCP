@@ -13,6 +13,27 @@ Dự án này bao gồm:
 Việc triển khai này mô phỏng cách thức hoạt động của các nhóm hỗ trợ CNTT hiện đại và làm nổi bật các kỹ năng quản trị Linux, cơ sở hạ tầng đám mây, mạng và tích hợp hệ thống.
 
 # Cài đặt & cấu hình Zammad
+## Thiết lập môi trường Zammad
+Chọn VPC trên Google Cloud Platform
+![](image/ChooseVPC.png)  
+
+OS được chọn để cài đặt Ubuntu 22.04 LTS, 30 Gb ổ cứng.  
+![](image/OS-VPC.png)  
+
+Cho phép HTTP, HTTPS truy cập WebUI Zammad.  
+![](image/Network-VPC.png)  
+
+## Cài đặt Zammad
+Cài đặt các gói cần thiết.  
+![](image/instal-package.png)  
+
+Cài đặt Elasticsearch
+![](image/install-elastic1.png)  
+![](image/install-elastic2.png)  
+
+Cấu hình trong file /etc/elasticsearch/elasticsearch.yml  
+![](image/edit-conf-elastic.png)  
+
 # Email Channel
 # Live Chat Channel
 # Tích hợp Website
