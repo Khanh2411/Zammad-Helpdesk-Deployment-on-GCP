@@ -43,7 +43,13 @@ Cập nhật và Cài đặt Zammad.
 Thiết lập rule firewall.  
 ![](image/setup-firewall-rule.png)  
 
+Tích hợp Elasticsearch vào Zammad  
+![](image/setupElasticsearch-toZammad.png)  
 # Email Channel
 # Live Chat Channel
+  
+Demo Live chat channel  
+![](image/demoLivechat1.png)  
+![](image/demoLivechat2.png)  
 # Groups – Roles – Users – Permissions
 # Backup & Restore
