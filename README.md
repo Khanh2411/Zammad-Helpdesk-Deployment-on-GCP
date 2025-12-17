@@ -45,6 +45,5 @@ Thiết lập rule firewall.
 
 # Email Channel
 # Live Chat Channel
-# Tích hợp Website
 # Groups – Roles – Users – Permissions
 # Backup & Restore
