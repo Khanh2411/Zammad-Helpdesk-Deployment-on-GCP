@@ -45,6 +45,9 @@ Thiết lập rule firewall.
 
 Tích hợp Elasticsearch vào Zammad  
 ![](image/setupElasticsearch-toZammad.png)  
+# Groups – Roles – Users
+## Groups
+## Users
 # Email Channel
 ![](image/Email_Inbound.png)  
 ![](image/Archive_Email.png)  
@@ -56,5 +59,4 @@ Tích hợp Elasticsearch vào Zammad
 Demo Live chat channel  
 ![](image/demoLivechat1.png)  
 ![](image/demoLivechat2.png)  
-# Groups – Roles – Users – Permissions
 # Backup & Restore
