@@ -96,7 +96,19 @@ dùng email cá nhân gửi đến email trên Zammad.
 ![](image/gmail-to-emailZammad.png)  
 ![](image/Test-ticket-email.png)  
   
-## Filter và Signatures
+## Filter Email
+### Filter System / No-reply (Chặn mail hệ thống)
+![](image/Filter1.png)  
+
+### Filter IT Support
+![](image/Filter2.png)  
+
+### Filter HR
+![](image/Filter3.png)  
+
+### Filter Default / Fallback (Email không match rule nào)
+![](image/Filter4.png)  
+  
 # Live Chat Channel
   
 Demo Live chat channel  
