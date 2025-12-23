@@ -46,6 +46,11 @@ Thiết lập rule firewall.
 Tích hợp Elasticsearch vào Zammad  
 ![](image/setupElasticsearch-toZammad.png)  
 # Email Channel
+![](image/Email_Inbound.png)  
+![](image/Archive_Email.png)  
+![](image/Email_Outbound.png)  
+![](image/Email_Channel.png)  
+![](image/Test-ticket-email.png)  
 # Live Chat Channel
   
 Demo Live chat channel  
