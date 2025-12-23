@@ -45,15 +45,29 @@ Thiết lập rule firewall.
 
 Tích hợp Elasticsearch vào Zammad  
 ![](image/setupElasticsearch-toZammad.png)  
+![](image/Elasticsearch_Dashboard.png)  
 # Groups – Roles – Users
 ## Groups
+![](image/Create_Group1.png)  
+![](image/Create_Group2.png)  
 ## Users
+![](image/Create_User1.png)  
+![](image/Create_User2.png)  
 # Email Channel
+## Setup Email Accounts
 ![](image/Email_Inbound.png)  
 ![](image/Archive_Email.png)  
 ![](image/Email_Outbound.png)  
+## Setup Email Notification
 ![](image/Email_Channel.png)  
+  
+## Overview
+![](image/Email_Channel.png)  
+  
+## Kiểm tra tạo ticket bằng email
 ![](image/Test-ticket-email.png)  
+  
+## Filter và Signatures
 # Live Chat Channel
   
 Demo Live chat channel  
