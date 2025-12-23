@@ -117,10 +117,10 @@ dùng email cá nhân gửi đến email trên Zammad.
 ![](image/Signature1.png)  
 
 ### Signature IT Support
-![](image/Signature1.png)  
+![](image/Signature2.png)  
 
 ### Signature HR
-![](image/Signature1.png)  
+![](image/Signature3.png)  
 
 # SLA và Triggers
 # Live Chat Channel
