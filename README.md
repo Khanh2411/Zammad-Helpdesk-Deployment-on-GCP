@@ -48,11 +48,31 @@ Tích hợp Elasticsearch vào Zammad
 ![](image/Elasticsearch_Dashboard.png)  
 # Groups – Roles – Users
 ## Groups
+Giải thích từng trường khi tạo group:  
+- Name *: Tên group xử lý ticket.  
+- Parent group: Group cha (nếu chia cấp).  
+- Assignment Timeout: Thời gian giữ ticket cho agent.  
+- Follow-up possible *: Cho phép khách reply email cũ.  
+- Assign Follow-Ups *: Giữ ticket trong group này khi có reply.  
+- Sending Email Address: Email dùng để gửi phản hồi.  
+- Signature: Chữ ký email tự động.  
+- Shared Drafts: Cho phép nhiều agent soạn chung 1 email.
+  
 ![](image/Create_Group1.png)  
 ![](image/Create_Group2.png)  
+  
 ## Users
+Giải thích từng trường khi tạo user:  
+- First name / Last name: Tên người dùng.  
+- Email: Định danh chính của user.  
+- Organization:  Công ty / phòng ban của user.  
+- VIP: Đánh dấu user ưu tiên (Có thể dùng trigger nâng priority).  
+- Roles: Vai trò người dùng (Quyết định quyền hạn: Customer, Agent, Admin,...).  
+- Active *: Trạng thái user.  
+  
 ![](image/Create_User1.png)  
 ![](image/Create_User2.png)  
+  
 # Email Channel
 ## Setup Email Accounts
 ![](image/Email_Inbound.png)  
