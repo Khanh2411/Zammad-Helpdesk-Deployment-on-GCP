@@ -108,7 +108,12 @@ dùng email cá nhân gửi đến email trên Zammad.
 
 ### Filter Default / Fallback (Email không match rule nào)
 ![](image/Filter4.png)  
-  
+
+### Filter VIP User
+![](image/Filter5.png)  
+
+## Signatures Email
+
 # Live Chat Channel
   
 Demo Live chat channel  
