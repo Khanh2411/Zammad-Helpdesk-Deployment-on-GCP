@@ -113,7 +113,16 @@ dùng email cá nhân gửi đến email trên Zammad.
 ![](image/Filter5.png)  
 
 ## Signatures Email
+### Signature Sales
+![](image/Signature1.png)  
 
+### Signature IT Support
+![](image/Signature1.png)  
+
+### Signature HR
+![](image/Signature1.png)  
+
+# SLA và Triggers
 # Live Chat Channel
   
 Demo Live chat channel  
