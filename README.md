@@ -86,7 +86,7 @@ Giải thích từng trường khi tạo user:
 - Dùng để GỬI thông báo hệ thống.  
 - Thông báo: Ticket mới, Ticket được assign, Ticket được cập nhật.
 - Gửi cho: Agent, Customer.  
-![](image/Email_Channel.png)  
+![](image/Email_Notification.png)  
   
 ## Overview
 ![](image/Email_Channel.png)  
