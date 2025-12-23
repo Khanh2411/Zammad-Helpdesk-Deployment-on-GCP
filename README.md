@@ -93,7 +93,7 @@ Giải thích từng trường khi tạo user:
   
 ## Kiểm tra tạo ticket bằng email
 dùng email cá nhân gửi đến email trên Zammad.  
-
+![](image/gmail-to-emailZammad.png)  
 ![](image/Test-ticket-email.png)  
   
 ## Filter và Signatures
