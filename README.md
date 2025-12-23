@@ -75,16 +75,25 @@ Giải thích từng trường khi tạo user:
   
 # Email Channel
 ## Setup Email Accounts
+- Kết nối mailbox thật (Gmail, M365, IMAP/SMTP).
+- Nhận email → tạo ticket
+- Gửi email → reply ticket  
 ![](image/Email_Inbound.png)  
 ![](image/Archive_Email.png)  
-![](image/Email_Outbound.png)  
+![](image/Email_Outbound.png)
+  
 ## Setup Email Notification
+- Dùng để GỬI thông báo hệ thống.  
+- Thông báo: Ticket mới, Ticket được assign, Ticket được cập nhật.
+- Gửi cho: Agent, Customer.  
 ![](image/Email_Channel.png)  
   
 ## Overview
 ![](image/Email_Channel.png)  
   
 ## Kiểm tra tạo ticket bằng email
+dùng email cá nhân gửi đến email trên Zammad.  
+
 ![](image/Test-ticket-email.png)  
   
 ## Filter và Signatures
