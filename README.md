@@ -123,9 +123,11 @@ dùng email cá nhân gửi đến email trên Zammad.
 ![](image/Signature3.png)  
 
 # SLA và Triggers
+![](image/SLA1.png)  
+![](image/SLA2.png)  
+![](image/SLA3.png)  
 # Live Chat Channel
-  
 Demo Live chat channel  
 ![](image/demoLivechat1.png)  
 ![](image/demoLivechat2.png)  
-# Backup & Restore
+
