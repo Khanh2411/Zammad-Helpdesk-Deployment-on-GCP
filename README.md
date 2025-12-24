@@ -123,9 +123,33 @@ dùng email cá nhân gửi đến email trên Zammad.
 ![](image/Signature3.png)  
 
 # SLA và Triggers
-![](image/SLA1.png)  
-![](image/SLA2.png)  
-![](image/SLA3.png)  
+## SLAs
+### General SLA
+SLA mặc định cho phần lớn ticket thông thường từ nhân viên/khách hàng, không mang tính khẩn cấp.
+Áp dụng cho:  
+- Ticket IT nội bộ
+- Yêu cầu hỗ trợ chung
+- Lỗi không ảnh hưởng lớn đến vận hành  
+![](image/SLA1.png)
+
+### VIP SLA
+SLA ưu tiên cao cho người dùng VIP / quản lý / khách hàng quan trọng.  
+Áp dụng cho:  
+- User có cờ VIP = yes
+- Ban giám đốc, trưởng phòng
+- Khách hàng chiến lược  
+![](image/SLA2.png)
+
+### Critical / Incident SLA
+SLA cho sự cố nghiêm trọng, ảnh hưởng trực tiếp đến hoạt động kinh doanh hoặc toàn hệ thống.  
+Áp dụng cho:  
+- System down
+- Mạng nội bộ / email / ERP / website ngưng hoạt động
+- Sự cố an ninh, mất dữ liệu  
+![](image/SLA3.png)
+
+## Triggers
+
 # Live Chat Channel
 Demo Live chat channel  
 ![](image/demoLivechat1.png)  
