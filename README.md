@@ -46,6 +46,8 @@ Cập nhật và Cài đặt Zammad.
 Thiết lập rule firewall.  
 ![](image/setup-firewall-rule.png)  
 
+Dashboard Zammad.  
+![](image/Dashboard-Zammad.png)  
 Tích hợp Elasticsearch vào Zammad  
 Dùng command: __sudo zammad run rails r "Setting.set('es_url', 'http://localhost:9200')"__  
 Sau đó rebuild Zammad  
@@ -158,7 +160,13 @@ SLA cho sự cố nghiêm trọng, ảnh hưởng trực tiếp đến hoạt đ
 ## Triggers
 
 # Live Chat Channel
-Demo Live chat channel  
+Zammad đã cho tích hợp đoạn script từ đó tích hợp vào website.  
+![](image/Livechat1.png)  
+  
+Live chat thông thường sẽ được gắn vào mục Contact của các website.  
+![](image/Livechat1.png)  
+  
+Demo Live chat channel   
 ![](image/demoLivechat1.png)  
 ![](image/demoLivechat2.png)  
 
