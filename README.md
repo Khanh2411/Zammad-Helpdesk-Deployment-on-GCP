@@ -47,7 +47,8 @@ Thiết lập rule firewall.
 ![](image/setup-firewall-rule.png)  
 
 Tích hợp Elasticsearch vào Zammad  
-Dùng command: __sudo zammad run rails r "Setting.set('es_url', 'http://localhost:9200')"__
+Dùng command: __sudo zammad run rails r "Setting.set('es_url', 'http://localhost:9200')"__  
+Sau đó rebuild Zammad  
 ![](image/setupElasticsearch-toZammad.png)  
   
 Dashboard của Elasticsearch  
