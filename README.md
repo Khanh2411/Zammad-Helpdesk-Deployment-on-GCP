@@ -24,6 +24,9 @@ Cho phép HTTP, HTTPS truy cập WebUI Zammad.
 ![](image/Network-VPC.png)  
 
 ## Cài đặt Zammad
+Tài liệu cài đặt Zammad ở Ubuntu: __https://docs.zammad.org/en/latest/install/package.html__
+Tài liệu cài đặt Elasticsearch: __https://docs.zammad.org/en/latest/install/elasticsearch.html__  
+  
 Cài đặt các gói cần thiết.  
 ![](image/instal-package.png)  
 
@@ -44,7 +47,10 @@ Thiết lập rule firewall.
 ![](image/setup-firewall-rule.png)  
 
 Tích hợp Elasticsearch vào Zammad  
+Dùng command: __sudo zammad run rails r "Setting.set('es_url', 'http://localhost:9200')"__
 ![](image/setupElasticsearch-toZammad.png)  
+  
+Dashboard của Elasticsearch  
 ![](image/Elasticsearch_Dashboard.png)  
 # Groups – Roles – Users
 ## Groups
