@@ -9,7 +9,7 @@ Dự án này bao gồm:
 - Thiết lập các kênh email (IMAP/SMTP) để tạo và trả lời yêu cầu hỗ trợ.
 - Cấu hình tiện ích trò chuyện web và nhúng nó vào trang web.
 - Triển khai Nhóm, Vai trò, Kích hoạt và SLA để mô phỏng quy trình hỗ trợ thực tế.
-- Ghi chép cấu hình quản trị như lập lịch, giám sát và backup.  
+  
 Việc triển khai này mô phỏng cách thức hoạt động của các nhóm hỗ trợ CNTT hiện đại và làm nổi bật các kỹ năng quản trị Linux, cơ sở hạ tầng đám mây, mạng và tích hợp hệ thống.
 
 # Cài đặt & cấu hình Zammad
