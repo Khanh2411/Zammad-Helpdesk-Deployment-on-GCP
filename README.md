@@ -133,6 +133,11 @@ dùng email cá nhân gửi đến email trên Zammad.
 
 # SLA và Triggers
 ## SLAs
+SLA là tập hợp các cam kết về thời gian phản hồi và xử lý ticket, nhằm đảm bảo chất lượng dịch vụ hỗ trợ CNTT.  
+- Xác định phải phản hồi trong bao lâu  
+- Xác định phải xử lý/xong trong bao lâu  
+- Áp dụng khác nhau theo mức độ ưu tiên  
+  
 ### General SLA
 SLA mặc định cho phần lớn ticket thông thường từ nhân viên/khách hàng, không mang tính khẩn cấp.
 Áp dụng cho:  
@@ -158,7 +163,12 @@ SLA cho sự cố nghiêm trọng, ảnh hưởng trực tiếp đến hoạt đ
 ![](image/SLA3.png)
 
 ## Triggers
+Trigger là cơ chế tự động thực thi hành động khi ticket thỏa mãn các điều kiện nhất định.  
+- Kích hoạt khi ticket được tạo hoặc cập nhật
+- Dựa trên điều kiện (VIP, trạng thái, priority, group…)
+- Tự động gửi thông báo, đổi trạng thái, gán group/agent, đặt priority…
 
+  
 # Live Chat Channel
 Zammad đã cho tích hợp đoạn script từ đó tích hợp vào website.  
 ![](image/Livechat1.png)  
