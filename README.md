@@ -164,7 +164,7 @@ Zammad đã cho tích hợp đoạn script từ đó tích hợp vào website.
 ![](image/Livechat1.png)  
   
 Live chat thông thường sẽ được gắn vào mục Contact của các website.  
-![](image/Livechat1.png)  
+![](image/Livechat2.png)  
   
 Demo Live chat channel   
 ![](image/demoLivechat1.png)  
