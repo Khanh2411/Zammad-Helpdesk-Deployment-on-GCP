@@ -24,7 +24,7 @@ Cho phép HTTP, HTTPS truy cập WebUI Zammad.
 ![](image/Network-VPC.png)  
 
 ## Cài đặt Zammad
-Tài liệu cài đặt Zammad ở Ubuntu: __https://docs.zammad.org/en/latest/install/package.html__
+Tài liệu cài đặt Zammad ở Ubuntu: __https://docs.zammad.org/en/latest/install/package.html__  
 Tài liệu cài đặt Elasticsearch: __https://docs.zammad.org/en/latest/install/elasticsearch.html__  
   
 Cài đặt các gói cần thiết.  
