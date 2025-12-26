@@ -164,10 +164,14 @@ SLA cho sự cố nghiêm trọng, ảnh hưởng trực tiếp đến hoạt đ
 
 ## Triggers
 Trigger là cơ chế tự động thực thi hành động khi ticket thỏa mãn các điều kiện nhất định.  
-- Kích hoạt khi ticket được tạo hoặc cập nhật
-- Dựa trên điều kiện (VIP, trạng thái, priority, group…)
-- Tự động gửi thông báo, đổi trạng thái, gán group/agent, đặt priority…
-
+- Kích hoạt khi ticket được tạo hoặc cập nhật  
+- Dựa trên điều kiện (VIP, trạng thái, priority, group…)  
+- Tự động gửi thông báo, đổi trạng thái, gán group/agent, đặt priority…  
+  
+### Notify agent when VIP ticket created
+Thông báo ngay khi có ticket VIP.  
+![](image/Trigger1.png)  
+![](image/Trigger2.png)  
   
 # Live Chat Channel
 Zammad đã cho tích hợp đoạn script từ đó tích hợp vào website.  
