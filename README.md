@@ -120,7 +120,13 @@ dùng email cá nhân gửi đến email trên Zammad.
 
 ### Filter VIP User
 ![](image/Filter5.png)  
-
+  
+### Filter Spam Emails
+![](image/Filter6.png)  
+  
+### Filter Fishing Email (basic)  
+![](image/Filter7.png)  
+  
 ## Signatures Email
 ### Signature Sales
 ![](image/Signature1.png)  
