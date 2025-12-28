@@ -124,7 +124,7 @@ dùng email cá nhân gửi đến email trên Zammad.
 ### Filter Spam Emails
 ![](image/Filter6.png)  
   
-### Filter Fishing Email (basic)  
+### Filter Fishing Email (cơ bản)  
 ![](image/Filter7.png)  
   
 ## Signatures Email
